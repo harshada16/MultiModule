@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: dao-module
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: code-machine
+Implementation-Vendor-Id: com.ak.multimoduleproject
+Build-Jdk: 1.8.0_73
+Implementation-URL: http://projects.spring.io/spring-boot/parent-modul
+ e/dao-module/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
